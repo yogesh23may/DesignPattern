@@ -6,8 +6,6 @@
  */
 package abstractFactory;
 
-import factory.Circle;
-
 public class Main {
 	public static void main(String[] args) {
 		FactoryProducer factoryProducer = new FactoryProducer();

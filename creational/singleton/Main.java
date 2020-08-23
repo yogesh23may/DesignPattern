@@ -13,7 +13,5 @@ public class Main {
 		SingleObject object2 = SingleObject.getInstance();
 		System.out.println(object2.hashCode() );
 		
-		
-		Service service = null;
 	}
 }
